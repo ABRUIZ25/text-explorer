@@ -1,5 +1,7 @@
 const prompt = require('prompt-sync')({ sigint: true });
 
+const title = prompt ('welcome to my little game! you are a captin of a ship that is trying to take over the sea fight your way through all 4 battles to win the game if you lose one you get sunk...... GLHF');
+
 
 
 let x = 0
